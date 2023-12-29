@@ -1,0 +1,4 @@
+*.pyc
+experiments
+wandb
+__idea__
