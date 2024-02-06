@@ -1,6 +1,6 @@
 # Exploring Deep Reinforcement Learning for Robust Target Tracking using Micro Aerial Vehicles
 
-This repository is the official implementation of [Exploring Deep Reinforcement Learning for Robust Target Tracking using Micro Aerial Vehicles](). 
+This repository is the official implementation of [Exploring Deep Reinforcement Learning for Robust Target Tracking using Micro Aerial Vehicles](https://ieeexplore.ieee.org/abstract/document/10407017). 
 
 ---
 
@@ -94,5 +94,15 @@ If you use this code in a scientific context, please cite the following:
 BibTeX details:
 
 ```bibtex
-
+@INPROCEEDINGS{10407017,
+  author={Dionigi, Alberto and Leomanni, Mirko and Saviolo, Alessandro and Loianno, Giuseppe and Costante, Gabriele},
+  booktitle={2023 21st International Conference on Advanced Robotics (ICAR)}, 
+  title={Exploring Deep Reinforcement Learning for Robust Target Tracking Using Micro Aerial Vehicles}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={506-513},
+  keywords={Deep learning;Visualization;Target tracking;Reinforcement learning;Robustness;Delays;Output feedback},
+  doi={10.1109/ICAR58858.2023.10407017}
+}
 ```
